@@ -1,0 +1,9 @@
+This data set show the titanic passenger data. in data  there are following thing observed 
+Ratio of same for both male and Female for each classes.
+
+In Not Survived group, more number of class-3 passenger and class-1 and class- 2  are same
+In Survived group, More number of class-1 and class-2 people
+
+the ration of female Survived is greater than male,
+for female the ratio of Survived is higher itself
+for male Ratio of not Survived is higher itself
